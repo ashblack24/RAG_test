@@ -1,0 +1,6 @@
+{
+  "name": "TradingView — Track All Markets & Advanced Financial Visualization",
+  "description": "Comprehensive financial visualization network with real-time charts, market screeners, Pine Script indicators, community trade ideas, and multi-asset tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
